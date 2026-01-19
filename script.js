@@ -4,7 +4,7 @@ document.querySelector(".contact-form").addEventListener("submit", e => {
   alert("Message sent successfully!");
 });
 
-// Theme toggle
+// Dark/Light toggle
 const toggle = document.getElementById("themeToggle");
 const body = document.body;
 
